@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn import preprocessing
+import numpy as np
 
 str_cols = [
     'Cancer Type Detailed',
@@ -19,14 +20,19 @@ str_cols = [
     'Radio Therapy',
     'Tumor Other Histologic Subtype',
     'Type of Breast Surgery',
-    'Overall Survival Status'
+    'Patient\'s Vital Status'
 ]
 
-df = pd.read_csv('./data/brca-data.csv')
+df = pd.read_csv('./dl-classifier/brca-data.csv')
 print(df.shape)
 
 # Drop rows which are missing data
+df.replace('NA', np.nan)
 df = df.dropna()
+
+# Drop death from other causes
+df = df[df['Patient\'s Vital Status'] != 'Died of Other Causes']
+print(df.shape)
 
 # Map nominal features to numbers
 for col in str_cols:
@@ -40,5 +46,5 @@ scaled = min_max_scaler.fit_transform(np_df)
 
 # Extract final df
 norm_df = pd.DataFrame(scaled)
-norm_df.to_csv('./data/brca-normalized.csv')
+norm_df.to_csv('./dl-classifier/brca-normalized.csv')
 print(norm_df)
