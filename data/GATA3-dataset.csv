@@ -22,7 +22,7 @@ Breast Invasive Ductal Carcinoma,8,66.54,High,NO,Positive,Positve,Negative,NEUTR
 Breast Invasive Ductal Carcinoma,6,68.66,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,3,2,4.05,IDC,LumA,Negative,Right,YES,Ductal/NST,25,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,2,55.22,Low,YES,Positive,Positve,Positive,GAIN,YES,Post,1,25,2,5.06,IDC,Normal,Negative,Left,NO,Ductal/NST,30,2,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,3,49.92,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,1,2.05,IDC,LumA,Positive,Left,NO,Ductal/NST,25,,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,3,89.43,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,1,3.042,IDC,LumA,Positive,Left,NO,Ductal/NST,21,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,3,89.43,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,1,3.042,IDC,LumA,Positive,Left,NO,Ductal/NST,21,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,56.32,Moderate,YES,Positive,Positve,Negative,GAIN,YES,Post,6,3,2,4.1,IDC,LumA,Negative,Right,YES,Ductal/NST,50,2,MASTECTOMY,Living
 Invasive Breast Carcinoma,2,67.01,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,3,2,4.052,BRCA,LumA,Positive,,YES,,26,2,MASTECTOMY,Died of Disease
 Breast Mixed Ductal and Lobular Carcinoma,4,51.74,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,2,3.044,MDLC,LumA,Positive,Left,NO,Mixed,22,2,MASTECTOMY,Living
@@ -46,14 +46,14 @@ Breast Invasive Ductal Carcinoma,5,68.47,Moderate,NO,Positive,Positve,Negative,N
 Breast Mixed Ductal and Lobular Carcinoma,5,50.41,Low,YES,Positive,Positve,Negative,GAIN,YES,Post,9,1,2,4.048,MDLC,LumA,Positive,Left,YES,Mixed,24,2,MASTECTOMY,Living
 Breast Mixed Ductal and Lobular Carcinoma,4,59.96,Moderate,NO,Positive,Positve,Positive,GAIN,YES,Post,5,25,2,5.07,MDLC,LumB,Negative,Right,YES,Mixed,35,4,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,6,77.96,High,NO,Positive,Positve,Negative,LOSS,YES,Post,4ER+,1,3,5.09,IDC,LumB,Negative,Right,YES,Ductal/NST,45,3,MASTECTOMY,Living
-Breast Mixed Ductal and Lobular Carcinoma,5,77.48,High,NO,Positive,Positve,Negative,LOSS,YES,Post,3,0,2,3.032,MDLC,LumA,Positive,Left,YES,Mixed,16,1,BREAST CONSERVING,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,5,77.48,High,NO,Positive,Positve,Negative,LOSS,YES,Post,3,0,2,3.032,MDLC,LumA,Positive,Left,YES,Mixed,16,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,2,38.35,High,YES,Positive,Positve,Positive,GAIN,YES,Pre,1,0,3,4.04,IDC,LumB,Positive,Right,YES,Ductal/NST,20,1,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,2,79.12,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.04,IDC,LumA,Positive,Left,YES,Ductal/NST,20,1,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,2,79.12,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.04,IDC,LumA,Positive,Left,YES,Ductal/NST,20,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,60.62,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,4,1,4.016,IDC,LumA,Positive,Right,YES,Ductal/NST,8,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,79.48,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,2,2,2,4.042,IDC,LumA,Negative,Left,YES,Ductal/NST,21,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,2,82.5,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,1,2.048,IDC,LumA,Positive,Right,YES,Ductal/NST,24,2,BREAST CONSERVING,Living
 Breast,4,69.73,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,,1.12,BREAST,Normal,Positive,Left,NO,Other,60,1,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,28,41.32,Moderate,NO,Positive,,Negative,NEUTRAL,NO,Pre,4ER+,1,2,4.092,IDC,Normal,Positive,,NO,Ductal/NST,46,2,,Died of Other Causes
+Breast Invasive Ductal Carcinoma,28,41.32,Moderate,NO,Positive,,Negative,NEUTRAL,NO,Pre,4ER+,1,2,4.092,IDC,Normal,Positive,,NO,Ductal/NST,46,2,,Living
 Breast Mixed Ductal and Lobular Carcinoma,6,58.99,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,1,3.05,MDLC,LumA,Positive,Left,NO,Mixed,25,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,8,66.22,High,NO,Positive,Positve,Negative,GAIN,NO,Post,1,0,2,3.032,IDC,LumB,Positive,Right,YES,Ductal/NST,16,1,BREAST CONSERVING,Died of Disease
 Breast Invasive Ductal Carcinoma,2,61.22,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,3,5.03,IDC,LumB,Negative,Left,YES,Ductal/NST,15,2,MASTECTOMY,Living
@@ -66,16 +66,16 @@ Breast Invasive Ductal Carcinoma,6,36.8,High,NO,Positive,Positve,Negative,NEUTRA
 Breast Invasive Ductal Carcinoma,12,40.79,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.034,IDC,LumA,Positive,Left,YES,Ductal/NST,17,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,67.62,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,2,3.05,IDC,LumB,Positive,Right,NO,Ductal/NST,25,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,65.04,High,NO,Negative,Positve,Positive,GAIN,YES,Post,5,18,3,6.07,IDC,Her2,Negative,Left,YES,Ductal/NST,35,3,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,6,60.11,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,2,4.03,IDC,LumA,Positive,Right,NO,Ductal/NST,15,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,6,60.11,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,2,4.03,IDC,LumA,Positive,Right,NO,Ductal/NST,15,2,MASTECTOMY,Living
 Breast Invasive Mixed Mucinous Carcinoma,7,36.25,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,6,0,2,3.046,IMMC,LumB,Negative,Right,YES,Mucinous,23,1,BREAST CONSERVING,Living
 Breast Invasive Mixed Mucinous Carcinoma,6,59.58,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,1,1,3.04,IMMC,LumA,Negative,Left,NO,Mucinous,20,2,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,5,68.18,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.026,IDC,claudin-low,Negative,Right,NO,Ductal/NST,13,1,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,68.18,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.026,IDC,claudin-low,Negative,Right,NO,Ductal/NST,13,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,3,49.83,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,8,0,2,3.05,IDC,LumB,Positive,Left,YES,Ductal/NST,25,1,BREAST CONSERVING,Died of Disease
 Breast Invasive Ductal Carcinoma,6,48.93,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,1,2.032,IDC,LumA,Positive,Left,YES,Tubular/ cribriform,16,1,BREAST CONSERVING,Living
-Breast Invasive Mixed Mucinous Carcinoma,5,59.13,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.04,IMMC,LumB,Positive,Left,NO,Mucinous,20,1,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,10,46.9,,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.034,IDC,LumB,Positive,Left,NO,Ductal/NST,17,1,MASTECTOMY,Died of Other Causes
+Breast Invasive Mixed Mucinous Carcinoma,5,59.13,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.04,IMMC,LumB,Positive,Left,NO,Mucinous,20,1,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,10,46.9,,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.034,IDC,LumB,Positive,Left,NO,Ductal/NST,17,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,6,39.07,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,1,0,2,3.03,IDC,LumA,Positive,Right,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,9,52.67,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.024,IDC,LumA,Positive,Left,YES,Tubular/ cribriform,12,1,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,9,52.67,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.024,IDC,LumA,Positive,Left,YES,Tubular/ cribriform,12,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,6,50.3,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,2,3,5.036,IDC,LumA,Positive,Left,YES,Ductal/NST,18,2,MASTECTOMY,Living
 Breast Mixed Ductal and Lobular Carcinoma,6,48.47,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,1,2.03,MDLC,LumA,Positive,Right,NO,Mixed,15,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,12,56.83,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,2,0,3,4.02,IDC,LumB,Positive,Right,NO,Ductal/NST,10,1,MASTECTOMY,Living
@@ -84,7 +84,7 @@ Breast Invasive Ductal Carcinoma,3,65.58,High,NO,Positive,Positve,Negative,NEUTR
 Breast Invasive Ductal Carcinoma,6,45,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,1,0,3,4.056,IDC,LumB,Positive,Left,NO,Ductal/NST,28,1,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,3,64.99,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,2,3.038,IDC,LumB,Negative,Left,NO,Ductal/NST,19,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,6,49.5,,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,8,0,2,3.064,IDC,LumB,Positive,Left,NO,Ductal/NST,32,1,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,5,69.65,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,2,4.07,IDC,LumA,Negative,Right,YES,Ductal/NST,35,2,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,69.65,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,2,4.07,IDC,LumA,Negative,Right,YES,Ductal/NST,35,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,66.15,High,NO,Positive,Positve,Negative,GAIN,NO,Post,8,0,2,3.032,IDC,LumB,Negative,Left,YES,Ductal/NST,16,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,7,40.92,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,3,2,2,4.032,IDC,LumA,Positive,Left,YES,Ductal/NST,16,2,MASTECTOMY,Living
 Breast,6,39.28,High,NO,Positive,Positve,Negative,LOSS,YES,Pre,1,1,3,5.032,BREAST,LumB,Positive,Right,YES,Other,16,2,MASTECTOMY,Living
@@ -92,55 +92,55 @@ Breast Invasive Ductal Carcinoma,4,63.95,Moderate,NO,Positive,Positve,Negative,N
 Breast Invasive Ductal Carcinoma,7,41.52,High,NO,Positive,Positve,Negative,GAIN,NO,Pre,3,0,1,2.04,IDC,LumA,Positive,Left,NO,Ductal/NST,20,1,MASTECTOMY,Living
 Breast,6,68.72,High,NO,Positive,Positve,Negative,LOSS,NO,Post,8,0,,1.048,BREAST,LumA,Positive,Right,NO,Other,24,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,9,74.51,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,2,3.08,IDC,LumA,Negative,Right,YES,Ductal/NST,40,2,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,6,50.23,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.05,IDC,Normal,Positive,Right,YES,Ductal/NST,25,2,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,4,74.45,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,3,4.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,6,50.23,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.05,IDC,Normal,Positive,Right,YES,Ductal/NST,25,2,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,4,74.45,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,3,4.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,68.55,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,,2.1,IDC,Her2,Negative,Right,NO,Ductal/NST,50,,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,5,68.25,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,3,4.08,IDC,LumA,Positive,Left,NO,Ductal/NST,40,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,8,72.17,Moderate,NO,Positive,Positve,Negative,GAIN,YES,Post,7,1,2,4.04,IDC,LumA,Positive,Right,YES,Ductal/NST,20,,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,14,68.32,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,3,0,3,4.06,IDC,Her2,Positive,Right,NO,Medullary,30,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,68.25,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,3,4.08,IDC,LumA,Positive,Left,NO,Ductal/NST,40,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,8,72.17,Moderate,NO,Positive,Positve,Negative,GAIN,YES,Post,7,1,2,4.04,IDC,LumA,Positive,Right,YES,Ductal/NST,20,,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,14,68.32,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,3,0,3,4.06,IDC,Her2,Positive,Right,NO,Medullary,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,55.62,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,2,2,4.08,IDC,LumA,Positive,Left,YES,Ductal/NST,40,2,MASTECTOMY,Living
-Breast Mixed Ductal and Lobular Carcinoma,6,54.16,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.06,MDLC,LumA,Negative,Left,YES,Mixed,30,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,3,76.51,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,1,2.1,IDC,LumA,Positive,Left,YES,Ductal/NST,50,,MASTECTOMY,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,6,54.16,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.06,MDLC,LumA,Negative,Left,YES,Mixed,30,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,3,76.51,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,1,2.1,IDC,LumA,Positive,Left,YES,Ductal/NST,50,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,10,61.22,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,6,24,3,6.1,IDC,Her2,Positive,Left,YES,Ductal/NST,50,2,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,6,77.51,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,3,4.06,IDC,LumA,Positive,Left,YES,Ductal/NST,30,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,6,77.51,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,3,4.06,IDC,LumA,Positive,Left,YES,Ductal/NST,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,40.04,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.032,IDC,Normal,Positive,Left,NO,Ductal/NST,16,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,4,47.29,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.03,IDC,LumA,Positive,Right,NO,Ductal/NST,15,1,MASTECTOMY,Living
 Breast Mixed Ductal and Lobular Carcinoma,7,51.25,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,1,2.06,MDLC,LumA,Positive,Left,YES,Mixed,30,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,48.44,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.03,IDC,LumA,Positive,Right,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,8,63.83,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,3,3,5.08,IDC,LumA,Positive,Right,YES,Ductal/NST,40,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,10,42.79,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.03,IDC,Normal,Positive,Left,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
-Breast Invasive Lobular Carcinoma,40,65.58,High,NO,Negative,Negative,Negative,NEUTRAL,NO,Post,4ER-,0,3,4.04,ILC,Her2,Negative,Left,YES,Lobular,20,1,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Lobular Carcinoma,40,65.58,High,NO,Negative,Negative,Negative,NEUTRAL,NO,Post,4ER-,0,3,4.04,ILC,Her2,Negative,Left,YES,Lobular,20,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,7,59.23,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.036,IDC,LumA,Positive,Left,YES,Ductal/NST,18,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,16,49.76,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,7,0,3,4.02,IDC,LumA,Negative,Left,NO,Ductal/NST,10,1,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,8,47.62,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,3,4.05,IDC,LumA,Positive,Left,YES,Ductal/NST,25,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,6,52.13,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,9,0,3,4.07,IDC,LumB,Negative,Right,NO,Ductal/NST,35,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,12,77.12,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,3,4.038,IDC,LumA,Positive,Left,NO,Ductal/NST,19,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,6,64.02,High,NO,Positive,,Negative,NEUTRAL,NO,Post,8,0,,3.05,IDC,LumA,Positive,Left,NO,Ductal/NST,25,2,MASTECTOMY,Living
-Breast Mixed Ductal and Lobular Carcinoma,10,51.29,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.136,MDLC,LumA,Positive,Right,NO,Mixed,68,2,MASTECTOMY,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,10,51.29,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.136,MDLC,LumA,Positive,Right,NO,Mixed,68,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,6,52.29,Moderate,NO,Positive,Positve,Negative,LOSS,YES,Post,1,1,3,5.092,IDC,LumB,Negative,Left,NO,Ductal/NST,46,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,64.21,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,2,3,5.032,IDC,LumB,Positive,Right,YES,Ductal/NST,16,2,BREAST CONSERVING,Died of Disease
 Breast Invasive Ductal Carcinoma,15,38.1,Low,YES,Positive,Negative,Negative,NEUTRAL,NO,Pre,3,3,3,5.09,IDC,Normal,Positive,Right,NO,Ductal/NST,45,,MASTECTOMY,Living
-Breast Mixed Ductal and Lobular Carcinoma,14,70.57,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.044,MDLC,LumA,Positive,Left,NO,Mixed,22,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,4,63.35,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,3,4.04,IDC,Normal,Negative,Right,NO,Ductal/NST,20,,MASTECTOMY,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,14,70.57,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.044,MDLC,LumA,Positive,Left,NO,Mixed,22,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,4,63.35,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,3,4.04,IDC,Normal,Negative,Right,NO,Ductal/NST,20,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,75.46,High,NO,Positive,Positve,Negative,LOSS,NO,Post,8,0,2,3.056,IDC,LumA,Positive,Left,YES,Ductal/NST,28,2,BREAST CONSERVING,Died of Disease
-Breast Invasive Ductal Carcinoma,8,68.85,Moderate,NO,Positive,Positve,Negative,GAIN,NO,Post,6,0,2,3.06,IDC,LumA,Positive,Right,NO,Ductal/NST,30,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,5,89,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,3,,2.07,IDC,LumA,Positive,Left,NO,Ductal/NST,35,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,8,68.85,Moderate,NO,Positive,Positve,Negative,GAIN,NO,Post,6,0,2,3.06,IDC,LumA,Positive,Right,NO,Ductal/NST,30,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,5,89,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,3,,2.07,IDC,LumA,Positive,Left,NO,Ductal/NST,35,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,4,53.18,High,NO,Positive,Positve,Positive,GAIN,NO,Post,5,0,2,3.05,IDC,LumB,Negative,Right,NO,Ductal/NST,25,2,MASTECTOMY,Living
 Breast Invasive Lobular Carcinoma,5,44.51,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.05,ILC,Normal,Positive,Right,YES,Lobular,25,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,5,67.19,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,2,2,,2.032,IDC,LumA,Positive,Left,YES,Ductal/NST,16,,,Died of Disease
 Breast Mixed Ductal and Lobular Carcinoma,4,76.88,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.02,MDLC,LumA,Positive,Left,NO,Mixed,10,1,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,11,55.66,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,3,4.032,IDC,Her2,Positive,Left,YES,Ductal/NST,16,,BREAST CONSERVING,Died of Disease
 Breast Invasive Lobular Carcinoma,6,62.35,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,,3.032,ILC,LumA,Positive,Left,NO,Lobular,16,1,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,9,74.8,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,2,3,5.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,9,74.8,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,2,3,5.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,64.47,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,14,2,5.06,IDC,LumB,Positive,Right,YES,Ductal/NST,30,3,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,8,40.25,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.04,IDC,LumA,Positive,Left,YES,Ductal/NST,20,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,2,50.78,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.06,IDC,LumA,Negative,Right,NO,Ductal/NST,30,2,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,5,77.77,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,2,0,2,3.036,IDC,LumB,Positive,Left,YES,Ductal/NST,18,1,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,77.77,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,2,0,2,3.036,IDC,LumB,Positive,Left,YES,Ductal/NST,18,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,10,67.15,Moderate,NO,Negative,Negative,Positive,GAIN,NO,Post,4ER-,0,3,4.042,IDC,Her2,Negative,Left,YES,Ductal/NST,21,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,6,77.45,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.06,IDC,LumB,Positive,Left,NO,Ductal/NST,30,,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,6,44.84,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,7,0,2,3.06,IDC,LumA,Positive,Right,YES,Ductal/NST,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,71.61,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,1,2,4.042,IDC,LumA,Negative,Left,NO,Ductal/NST,21,2,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,5,44.36,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,3,4.044,IDC,LumA,Positive,Right,YES,Ductal/NST,22,2,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,44.36,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,3,4.044,IDC,LumA,Positive,Right,YES,Ductal/NST,22,2,BREAST CONSERVING,Living
 Breast Mixed Ductal and Lobular Carcinoma,8,62.68,Moderate,NO,Positive,Positve,Negative,LOSS,YES,Post,8,4,3,6.034,MDLC,LumA,Positive,Left,YES,Mixed,17,2,BREAST CONSERVING,Died of Disease
 Breast Mixed Ductal and Lobular Carcinoma,5,46.95,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,3,4.05,MDLC,LumA,Positive,Right,YES,Mixed,25,2,BREAST CONSERVING,Living
 Breast Invasive Mixed Mucinous Carcinoma,8,63.92,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,1,0,1,2.086,IMMC,LumB,Negative,Right,YES,Mucinous,43,2,BREAST CONSERVING,Died of Disease
@@ -150,64 +150,64 @@ Breast Invasive Ductal Carcinoma,8,44.12,Moderate,NO,Positive,Positve,Negative,N
 Breast Mixed Ductal and Lobular Carcinoma,8,53.69,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.034,MDLC,LumA,Positive,Left,NO,Mixed,17,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,75.55,High,NO,Positive,Positve,Positive,GAIN,YES,Post,1,1,3,5.04,IDC,LumB,Negative,Right,YES,Ductal/NST,20,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,5,53.58,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,2,4.05,IDC,LumA,Positive,Left,YES,Ductal/NST,25,2,BREAST CONSERVING,Living
-Breast Invasive Lobular Carcinoma,5,70.59,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,3,4.05,ILC,LumA,Negative,Left,YES,Lobular,25,2,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,4,69.95,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,2,3.06,IDC,Her2,Negative,Left,NO,Ductal/NST,30,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Lobular Carcinoma,5,70.59,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,3,4.05,ILC,LumA,Negative,Left,YES,Lobular,25,2,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,4,69.95,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,2,3.06,IDC,Her2,Negative,Left,NO,Ductal/NST,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,51.09,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,2,3.06,IDC,LumA,Positive,Right,YES,Ductal/NST,30,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,7,51.08,Moderate,YES,Negative,Negative,Negative,NEUTRAL,YES,Post,4ER-,3,,2.06,IDC,Normal,Negative,Right,YES,Ductal/NST,30,2,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,6,88.8,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,1,3.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,6,88.8,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,1,3.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,75.53,Moderate,NO,Positive,Positve,Negative,LOSS,NO,Post,4ER+,0,3,4.03,IDC,LumB,Negative,Left,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,5,69.2,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,6,0,3,4.08,IDC,LumB,Positive,Left,NO,Ductal/NST,40,2,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,4,70.31,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,3,2,4.046,IDC,LumA,Positive,Right,YES,Ductal/NST,23,2,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,7,46.4,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,3,4.036,IDC,LumA,Positive,Left,YES,Ductal/NST,18,1,BREAST CONSERVING,Living
 Breast Mixed Ductal and Lobular Carcinoma,4,47.98,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.06,MDLC,LumA,Positive,Right,YES,Mixed,30,2,BREAST CONSERVING,Living
-Breast Mixed Ductal and Lobular Carcinoma,7,67.1,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,3,5.07,MDLC,LumA,Positive,Left,NO,Mixed,35,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,80,72.19,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,3,0,2,3,IDC,Her2,Negative,Left,NO,Ductal/NST,,,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,6,66.55,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.08,IDC,LumA,Negative,Right,NO,Ductal/NST,40,2,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,22,70.1,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,2,2,4.07,IDC,LumB,Negative,Right,YES,Ductal/NST,35,2,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,7,69.42,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.044,IDC,LumA,Positive,Left,NO,Ductal/NST,22,2,MASTECTOMY,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,7,67.1,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,3,5.07,MDLC,LumA,Positive,Left,NO,Mixed,35,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,80,72.19,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,3,0,2,3,IDC,Her2,Negative,Left,NO,Ductal/NST,,,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,6,66.55,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,3,4.08,IDC,LumA,Negative,Right,NO,Ductal/NST,40,2,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,22,70.1,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,2,2,4.07,IDC,LumB,Negative,Right,YES,Ductal/NST,35,2,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,7,69.42,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.044,IDC,LumA,Positive,Left,NO,Ductal/NST,22,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,55.53,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,1,2.03,IDC,LumA,Positive,Right,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
 Breast Mixed Ductal and Lobular Carcinoma,4,61.88,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,2,4.06,MDLC,LumA,Positive,Right,NO,Mixed,30,2,MASTECTOMY,Died of Disease
 Breast Invasive Ductal Carcinoma,7,58.26,High,NO,Positive,Positve,Negative,GAIN,NO,Post,7,0,3,4.03,IDC,LumA,Negative,Left,NO,Ductal/NST,15,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,8,73.01,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,0,2,3.054,IDC,claudin-low,Positive,Right,YES,Ductal/NST,27,2,BREAST CONSERVING,Died of Disease
-Breast Invasive Ductal Carcinoma,7,69.27,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,4,2,5.06,IDC,LumA,Positive,Right,YES,Ductal/NST,30,2,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,5,81.76,High,NO,Positive,Positve,Negative,GAIN,NO,Post,7,0,2,3.032,IDC,LumA,Positive,Right,NO,Ductal/NST,16,1,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,7,69.27,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,4,2,5.06,IDC,LumA,Positive,Right,YES,Ductal/NST,30,2,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,5,81.76,High,NO,Positive,Positve,Negative,GAIN,NO,Post,7,0,2,3.032,IDC,LumA,Positive,Right,NO,Ductal/NST,16,1,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,36.03,Low,NO,Positive,Positve,Negative,GAIN,NO,Pre,8,0,3,4.002,IDC,LumA,Positive,Right,YES,Ductal/NST,1,1,BREAST CONSERVING,Living
 Breast Mixed Ductal and Lobular Carcinoma,6,49.58,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,7,0,1,2.03,MDLC,LumA,Positive,Left,YES,Mixed,15,,BREAST CONSERVING,Living
 Breast Mixed Ductal and Lobular Carcinoma,11,43.44,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,8,0,2,3.03,MDLC,LumA,Positive,Right,YES,Mixed,15,1,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,4,73.55,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,2,3,2,4.046,IDC,LumB,Positive,Left,NO,Ductal/NST,23,2,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,4,73.55,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,2,3,2,4.046,IDC,LumB,Positive,Left,NO,Ductal/NST,23,2,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,10,69.27,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,0,3,4.09,IDC,LumB,Negative,Left,YES,Ductal/NST,45,2,BREAST CONSERVING,Living
 Breast Invasive Mixed Mucinous Carcinoma,9,63.2,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,3,4.056,IMMC,LumB,Negative,Right,YES,Mucinous,28,2,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,9,53.56,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,3,4.04,IDC,LumB,Negative,Right,YES,Ductal/NST,20,1,BREAST CONSERVING,Living
-Breast Mixed Ductal and Lobular Carcinoma,5,74.95,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.04,MDLC,LumA,Positive,Right,YES,Mixed,20,1,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,23,69.55,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,3,4.04,IDC,Her2,Negative,Left,NO,Ductal/NST,20,1,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Lobular Carcinoma,11,66.01,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.04,ILC,LumB,Positive,Left,YES,Lobular,20,,BREAST CONSERVING,Died of Other Causes
-Breast Invasive Ductal Carcinoma,12,44.99,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,3,0,2,3.04,IDC,LumB,Positive,Right,NO,Ductal/NST,20,1,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,3,65.14,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,2,3.04,IDC,LumA,Positive,Left,YES,Ductal/NST,20,1,BREAST CONSERVING,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,5,74.95,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.04,MDLC,LumA,Positive,Right,YES,Mixed,20,1,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,23,69.55,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,0,3,4.04,IDC,Her2,Negative,Left,NO,Ductal/NST,20,1,BREAST CONSERVING,Living
+Breast Invasive Lobular Carcinoma,11,66.01,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.04,ILC,LumB,Positive,Left,YES,Lobular,20,,BREAST CONSERVING,Living
+Breast Invasive Ductal Carcinoma,12,44.99,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,3,0,2,3.04,IDC,LumB,Positive,Right,NO,Ductal/NST,20,1,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,3,65.14,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,2,3.04,IDC,LumA,Positive,Left,YES,Ductal/NST,20,1,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,7,59.22,High,NO,Positive,Positve,Negative,GAIN,NO,Post,1,0,,1.05,IDC,LumB,Negative,Left,NO,Ductal/NST,25,,MASTECTOMY,Died of Disease
-Breast Invasive Lobular Carcinoma,8,67.46,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.066,ILC,LumA,Positive,Left,NO,Lobular,33,,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,5,72.19,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,1,2.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,,MASTECTOMY,Died of Other Causes
+Breast Invasive Lobular Carcinoma,8,67.46,Moderate,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,8,0,2,3.066,ILC,LumA,Positive,Left,NO,Lobular,33,,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,5,72.19,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,1,2.06,IDC,LumA,Positive,Left,NO,Ductal/NST,30,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,4,69.39,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,2,1,3.052,IDC,LumB,Negative,Left,NO,Ductal/NST,26,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,72.81,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,7,2,5.068,IDC,LumA,Positive,Left,NO,Ductal/NST,34,,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,10,82.51,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,2,3.07,IDC,Normal,Positive,Left,NO,Ductal/NST,35,,MASTECTOMY,Died of Other Causes
-Breast Mixed Ductal and Lobular Carcinoma,6,78.93,Moderate,NO,Positive,Positve,Positive,NEUTRAL,NO,Post,7,0,1,2.026,MDLC,Her2,Positive,Left,NO,Mixed,13,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,10,82.51,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,2,3.07,IDC,Normal,Positive,Left,NO,Ductal/NST,35,,MASTECTOMY,Living
+Breast Mixed Ductal and Lobular Carcinoma,6,78.93,Moderate,NO,Positive,Positve,Positive,NEUTRAL,NO,Post,7,0,1,2.026,MDLC,Her2,Positive,Left,NO,Mixed,13,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,8,41.11,Low,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,3,0,2,3.03,IDC,LumA,Positive,Right,YES,Ductal/NST,15,1,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,7,76.99,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,15,3,6.03,IDC,LumA,Positive,Right,NO,Ductal/NST,15,,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,7,59.47,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.042,IDC,LumB,Negative,Left,NO,Ductal/NST,21,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,7,76.99,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,15,3,6.03,IDC,LumA,Positive,Right,NO,Ductal/NST,15,,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,7,59.47,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,4ER+,0,2,3.042,IDC,LumB,Negative,Left,NO,Ductal/NST,21,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,4,70.91,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.08,IDC,LumA,Positive,Left,NO,Ductal/NST,40,,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,5,83.09,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,1,3.03,IDC,LumA,Positive,Left,NO,Ductal/NST,15,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,5,83.09,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,1,1,3.03,IDC,LumA,Positive,Left,NO,Ductal/NST,15,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,35.02,High,YES,Positive,Positve,Negative,NEUTRAL,YES,Pre,2,9,3,6.1,IDC,Her2,Positive,Right,NO,Ductal/NST,50,,MASTECTOMY,Died of Disease
-Breast Invasive Ductal Carcinoma,7,79.24,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,3,2,4.056,IDC,LumA,Negative,Right,NO,Ductal/NST,28,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,7,79.24,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,3,2,4.056,IDC,LumA,Negative,Right,NO,Ductal/NST,28,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,49.67,High,NO,Positive,Positve,Negative,GAIN,NO,Pre,1,0,3,4.044,IDC,LumA,Negative,Left,NO,Ductal/NST,22,2,MASTECTOMY,Died of Disease
 Breast Mixed Ductal and Lobular Carcinoma,6,84.87,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,7,0,2,3.058,MDLC,LumA,Positive,Left,NO,Mixed,29,,MASTECTOMY,Died of Disease
-Breast Invasive Lobular Carcinoma,10,73.07,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,3,5.05,ILC,LumA,Positive,Left,NO,Lobular,25,,MASTECTOMY,Died of Other Causes
-Breast Invasive Ductal Carcinoma,6,62.92,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,2,4.03,IDC,LumB,Positive,Left,NO,Ductal/NST,15,,MASTECTOMY,Died of Other Causes
+Breast Invasive Lobular Carcinoma,10,73.07,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,1,3,5.05,ILC,LumA,Positive,Left,NO,Lobular,25,,MASTECTOMY,Living
+Breast Invasive Ductal Carcinoma,6,62.92,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,2,4.03,IDC,LumB,Positive,Left,NO,Ductal/NST,15,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,85.02,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,9,0,3,4.078,IDC,LumB,Negative,Right,NO,Ductal/NST,39,,MASTECTOMY,Living
 Breast Invasive Mixed Mucinous Carcinoma,5,68.57,High,NO,Positive,Positve,Positive,GAIN,NO,Post,1,0,2,3.028,IMMC,Her2,Negative,Left,NO,Mucinous,14,,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,7,86.9,Moderate,NO,Positive,Positve,Negative,GAIN,YES,Post,2,3,3,5.106,IDC,LumB,Positive,Right,NO,Ductal/NST,53,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,7,86.9,Moderate,NO,Positive,Positve,Negative,GAIN,YES,Post,2,3,3,5.106,IDC,LumB,Positive,Right,NO,Ductal/NST,53,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,8,73.42,,NO,Positive,Positve,Negative,NEUTRAL,NO,Post,6,0,2,3.044,IDC,Her2,Negative,Left,NO,Ductal/NST,22,,MASTECTOMY,Died of Disease
 Breast,9,69.28,Moderate,NO,Positive,Positve,Negative,GAIN,YES,Post,1,1,2,4.022,BREAST,LumB,Positive,Left,NO,Other,11,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,11,58.8,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,1,1,3.038,IDC,LumA,Positive,Left,YES,Ductal/NST,19,,BREAST CONSERVING,Living
-Breast Invasive Ductal Carcinoma,2,69.94,High,NO,Negative,Negative,Negative,NEUTRAL,NO,Post,4ER-,0,3,4.048,IDC,claudin-low,Negative,Right,NO,Ductal/NST,24,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,2,69.94,High,NO,Negative,Negative,Negative,NEUTRAL,NO,Post,4ER-,0,3,4.048,IDC,claudin-low,Negative,Right,NO,Ductal/NST,24,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,3,63.79,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,3,4.05,IDC,LumB,Positive,Right,YES,Ductal/NST,25,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,8,65.94,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,2,2,4.056,IDC,LumB,Negative,Left,YES,Ductal/NST,28,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,20,71.82,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,7,2,5.042,IDC,LumA,Positive,Right,NO,Ductal/NST,21,,MASTECTOMY,Living
@@ -217,18 +217,18 @@ Breast Mixed Ductal and Lobular Carcinoma,10,55.67,High,NO,Positive,Negative,Neg
 Breast Invasive Lobular Carcinoma,8,71.41,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,2,3,5.036,ILC,LumB,Negative,Right,YES,Lobular,18,,BREAST CONSERVING,Died of Disease
 Breast Invasive Ductal Carcinoma,3,64.24,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,0,,2.042,IDC,LumA,Negative,Left,YES,Ductal/NST,21,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,8,78.16,High,NO,Positive,,Negative,NEUTRAL,YES,Post,7,0,2,3.0236,IDC,LumA,Positive,,NO,Ductal/NST,11.8,,MASTECTOMY,Living
-Breast Mixed Ductal and Lobular Carcinoma,6,76.98,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,6,0,3,4.06,MDLC,LumB,Positive,Right,NO,Mixed,30,,MASTECTOMY,Died of Other Causes
+Breast Mixed Ductal and Lobular Carcinoma,6,76.98,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,6,0,3,4.06,MDLC,LumB,Positive,Right,NO,Mixed,30,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,7,56.86,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,2,2,4.038,IDC,LumB,Positive,Right,YES,Ductal/NST,19,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,5,43.26,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Pre,8,0,2,3.17,IDC,Her2,Positive,Left,YES,Ductal/NST,85,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,9,60.33,Low,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,7,0,3,4.05,IDC,LumA,Positive,Right,NO,Ductal/NST,25,,MASTECTOMY,Living
 Breast Invasive Ductal Carcinoma,15,58.56,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,4ER+,0,2,3.04,IDC,LumA,Negative,Left,YES,Ductal/NST,20,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,15,48.92,High,NO,Positive,Positve,Negative,NEUTRAL,NO,Pre,7,6,2,5.066,IDC,LumB,Positive,,NO,Ductal/NST,33,,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,7,71.69,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,3,4.046,IDC,LumB,Positive,Left,YES,Ductal/NST,23,,BREAST CONSERVING,Died of Other Causes
+Breast Invasive Ductal Carcinoma,7,71.69,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,0,3,4.046,IDC,LumB,Positive,Left,YES,Ductal/NST,23,,BREAST CONSERVING,Living
 Breast Invasive Lobular Carcinoma,5,57.87,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,2,1,3.0252,ILC,LumA,Positive,,YES,Lobular,12.6,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,8,51.45,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,3,0,2,3.03,IDC,LumA,Positive,Left,YES,Ductal/NST,15,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,4,63.43,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,6,0,3,4.016,IDC,LumB,Negative,Left,YES,Ductal/NST,8,,BREAST CONSERVING,Living
 Breast Invasive Ductal Carcinoma,3,56.78,High,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,8,3,2,4.06,IDC,LumA,Positive,,NO,Ductal/NST,30,,MASTECTOMY,Living
-Breast Invasive Ductal Carcinoma,15,61.16,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,12,2,5.05,IDC,LumB,Positive,,NO,Ductal/NST,25,,MASTECTOMY,Died of Other Causes
+Breast Invasive Ductal Carcinoma,15,61.16,Moderate,NO,Positive,Positve,Negative,NEUTRAL,YES,Post,1,12,2,5.05,IDC,LumB,Positive,,NO,Ductal/NST,25,,MASTECTOMY,Living
 Breast Invasive Lobular Carcinoma,3,87,,,,,,,,,,0,2,2.02,ILC,,,,,Lobular,51,2,,
 Breast Invasive Ductal Carcinoma,5,49,,,Positive,Positve,,,,,,2,2,,IDC,,,,,Ductal/NST,24,,,
 Breast Invasive Lobular Carcinoma,4,49,,,Positive,Positve,,,,,,,2,,ILC,,,,,Lobular,,,,
