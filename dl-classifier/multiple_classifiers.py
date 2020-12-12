@@ -51,11 +51,10 @@ features = []
 labels = []
 
 # Reads the features and labels from the files (have to uncomment and rerun for different files)
-#with open('brca-normalized.csv','r') as file:  
-with open('/dl-classifier/brca-normalized.csv','r') as file: 
-#with open('./dl-classifier/PIK3CA-normalized.csv','r') as file: 
-#with open('./dl-classifier/TP53-normalized.csv','r') as file: 
-#with open('./dl-classifier/CDH1-normalized.csv','r') as file: 
+with open('/biomarker-id/data/brca-normalized.csv','r') as file: 
+#with open('/biomarker-id/data/PIK3CA-normalized.csv','r') as file: 
+#with open('/biomarker-id/data/TP53-normalized.csv','r') as file: 
+#with open('/biomarker-id/data/CDH1-normalized.csv','r') as file: 
   for line in csv.reader(file):
     if (line[0] != "0"):
       data.append(line) 
